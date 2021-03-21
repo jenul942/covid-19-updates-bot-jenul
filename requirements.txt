@@ -1,4 +1,4 @@
 telebot
 requests
 bs4
-BeautifulSoup
+BeautifulSoup4
