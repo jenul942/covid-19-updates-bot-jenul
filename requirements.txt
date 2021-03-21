@@ -1,0 +1,5 @@
+telebot
+requests
+time
+bs4
+BeautifulSoup
